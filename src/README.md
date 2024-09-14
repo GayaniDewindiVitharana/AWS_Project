@@ -1,7 +1,7 @@
 # Coinbase Crypto Exchange
 
 ## Overview
-This project includes microservices for managing crypto prices, transactions, and accounts.
+This project includes microservices for managing crypto prices, transactions, and accounts .
 
 ## Setup
 
